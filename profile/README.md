@@ -1,4 +1,4 @@
-## Wir sind Ihr IT-Dienstleister aus Hannover 👋
+## Ihr IT-Dienstleister aus Hannover 👋
 
 Unsere Dienstleistungen:
 - IT-Beratung
