@@ -8,7 +8,7 @@ Unsere Dienstleistungen:
 
 Besuchen Sie auch unsere Webseite unter [hanovatech.de](https://hanovatech.de).
 
-Sie haben Fragen zu unseren Repositories oder Dienstleistungen? [Dann schreiben Sie uns!](https://hanovatech.de/kontakt)
+Sie haben Fragen zu unseren Repositories oder Dienstleistungen? Dann [schreiben Sie uns](https://hanovatech.de/kontakt)!
 
 <!--
 
